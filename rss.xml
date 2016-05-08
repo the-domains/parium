@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Parium]]></title>
         <description><![CDATA[Parium]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/parium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 17:04:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 17:08:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/parium/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined8147e997-5d7f-4553-8e62-e7ddabbd0c8f/index.html</link>
+            <description><![CDATA[<p>Pariums hovedfokus er å bidra til gjennomføring av strategiske initiativ. Vi bistår toppledelser i å bevare og videreutvikle inntekts- og kundebasen gjennom krevende endringsprosesser. Og i arbeidet med å utvikle salgs- og markedsorganisasjonen slik at nye inntektsmuligheter og nye markeder åpnes og utvikles.</p>]]></description>
+            <link>https://thegrid.ai/parium/8147e997-5d7f-4553-8e62-e7ddabbd0c8f/index.html</link>
             <guid isPermaLink="false">8147e997-5d7f-4553-8e62-e7ddabbd0c8f</guid>
-            <pubDate>Sun, 08 May 2016 17:04:42 GMT</pubDate>
+            <pubDate>Sun, 08 May 2016 17:07:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
