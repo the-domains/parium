@@ -1,0 +1,28 @@
+name: Parium
+favicon: null
+layout_spectrum: 0.8760781353339553
+typography_spectrum: 0.7108484848868102
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7934497073292732
+  lightness: 0.9507247293367982
+  saturation: 0.5937135135754943
+  rhythmicContrast: 0.7487040592823178
+purpose: []
